@@ -1,0 +1,15 @@
+{
+  "name": "syria-backend",
+  "version": "1.0.0",
+  "description": "Backend For Syria Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
